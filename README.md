@@ -17,9 +17,14 @@ If a controller is too complex, it can reduce the number of users and the game i
 ##Connectivity
 Most controllers are started to become wireless however some wired controllers still exist. For wireless controllers, it reduces the clutter of storage and also improves the mobility and engagement in the game. However, rechargable or non-rechargable batteries are required and a sync process is needed. There can be other issues with wireless if there require a direct line of sight to a sensor to work if there are obsticles in the way.
 
+![alt text][wired]
+
+[wired]: http://gearmedia.ign.com/gear/image/article/673/673178/xbox-360-controller-20051201054111842-000.jpg "Wired Vs Wireless Controller"
+
+
 ##Visual and Audio
 Other controllers are through visual and audio sensors, which change the engagement with the player. Depending on the type of game this can improve or decrease this. For a dance game, a visual sensor can make the game seem more intuitive and suited than a standard controller. With singing games, audio sensors do something that a standard controller cannot and actual requires the gamer to user their voice to sing instead of a button. This has also been incorporated into commands in addition to standard controllers such as the Xbox One headset which allows uses to start games, pause movies and shutdown the console with voice control.
 
 ![alt text][xbox]
 
-[xbox]: http://compass.xboxlive.com/assets/39/c2/39c20222-5c3a-4a8c-b291-aa9a4fe4e8fc.png?n=one-vienna-full-assembly-m.png "Dual Shock 4 Controller"
+[xbox]: http://compass.xboxlive.com/assets/39/c2/39c20222-5c3a-4a8c-b291-aa9a4fe4e8fc.png?n=one-vienna-full-assembly-m.png "Xbox Headset Controller Connection"
