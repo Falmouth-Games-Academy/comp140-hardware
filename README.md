@@ -14,6 +14,10 @@ To make a controller suited for gaming, the ergonomics of the controller has to 
 ##Complexity
 If a controller is too complex, it can reduce the number of users and the game it is intended for is less. For a game with a casual gamer target audience, a controller with multiple combination buttons can cause frustration with the uses. However, for a veteran player then the complexity is a challenge and the skill of the player improves their usability.
 
+![alt text][alphagrip]
+
+[alphagrip]: http://cdn-www.cracked.com/articleimages/wong/vgaccess/alpha1.jpg "AlphaGrip Work Game Controller"
+
 ##Connectivity
 Most controllers are started to become wireless however some wired controllers still exist. For wireless controllers, it reduces the clutter of storage and also improves the mobility and engagement in the game. However, rechargable or non-rechargable batteries are required and a sync process is needed. There can be other issues with wireless if there require a direct line of sight to a sensor to work if there are obsticles in the way.
 
