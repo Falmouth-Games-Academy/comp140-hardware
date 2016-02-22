@@ -21,10 +21,17 @@ The Guitar Hero controller is a prime example of when a controller desinged for 
 ___
 ##Initial Design proposal
 
-I will attempt to create a multi-player controller where two people can use it a the same time. Similar to the street fighter controller design, but with two sets of controls.
-![alt text](http://images.shopmadeinchina.com/p/970/10934970/USB-Wrestle-Joystick-Street-Fighter-Game.bak.jpg "Street Figher Controller")
-
+I will attempt to create a multi-player controller where two people can use it a the same time. Similar to the wii nunchuk design, but with two sets of mini controllers.
+![text](http://ecx.images-amazon.com/images/I/71C%2BkPbqwdL._SL1500_.jpg "Wii nunchuk")
 
 First Quick concepts:
 ![alt text](https://github.com/Alli1223/comp140-hardware/blob/master/First%20Prototype%20controller%20designs.png "First Concepts")
+From these prototypes I prefer the number 4 design as it allows for two people to hold the controllers independently without the others hand movements affecting their controls.
+
+My further design concepts:
+![text](https://github.com/Alli1223/comp140-hardware/blob/master/Prototype%20concept%202.jpg "Wii nunchuk")
+This is the controller style I am looking to go for, where each player has one small controler with movement keys, puch and kick. 
+
+![text](
+
 _TODO--_**
