@@ -11,12 +11,15 @@ Most common controllers these days have the same generic design, as they are mad
 
 Example of a popular controller:
 ![alt text](http://www.designboom.com/wp-content/uploads/2015/06/oculus-rift-designboom-11-818x576.jpg "Xbox One Controller")
+
 This controller design style would be appropriate for the game I have chosen, however I am going to try and come up with a controller that will hopefully be more suited for the game at hand.
 
 Example of a popular controller designed for a specific game:
 ![alt text](http://ecx.images-amazon.com/images/I/31xcc0u0AZL.jpg "Guitar Hero Controller")
+
 The Guitar Hero controller is a prime example of when a controller desinged for a specifc game can work very well.
-   
+
+
    
 ___
 ##Initial Design proposal
@@ -26,12 +29,10 @@ I will attempt to create a multi-player controller where two people can use it a
 
 First Quick concepts:
 ![alt text](https://github.com/Alli1223/comp140-hardware/blob/master/First%20Prototype%20controller%20designs.png "First Concepts")
-From these prototypes I prefer the number 4 design as it allows for two people to hold the controllers independently without the others hand movements affecting their controls.
 
-My further design concepts:
+From these prototypes I prefer the number 4 design as it allows for two people to hold the controllers independently without the others hand movements affecting their controls. It also appears to be far more comfortable to hold than the other designs that need to be rested on a surface.
+
+Further design concept:
 ![text](https://github.com/Alli1223/comp140-hardware/blob/master/Prototype%20concept%202.jpg "Wii nunchuk")
-This is the controller style I am looking to go for, where each player has one small controler with movement keys, puch and kick. 
 
-![text](
-
-_TODO--_**
+This is the controller style I am looking to go for, where each player has one small controler with movement keys, puch and kick buttons. This is because it is more ergonomic to hold the controller in your hand than laying it down on a table.
