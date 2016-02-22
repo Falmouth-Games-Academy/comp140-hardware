@@ -32,3 +32,17 @@ Other controllers are through visual and audio sensors, which change the engagem
 ![alt text][xbox]
 
 [xbox]: http://compass.xboxlive.com/assets/39/c2/39c20222-5c3a-4a8c-b291-aa9a4fe4e8fc.png?n=one-vienna-full-assembly-m.png "Xbox Headset Controller Connection"
+
+##Game Choice from BA
+The game my controller is designed for is the team 9 Castle Guillotine game. The controls required are:
+- WASD for player 1 movement
+- Arrow keys for player 2 movement
+- Mouse control
+- Left click
+- Space player 1 jump
+- RightCtrl player 2 jump
+- E for interact key
+- R for combine players
+
+##Inital Design
+For my design, I want to use two/three anolog stigs: one for player 1 movement and one for player 2 movement with a third anology stick for the mouse control. However if it's possible to use a button and change the function of the player 2 movement anolog for the mouse control.
