@@ -21,6 +21,10 @@ The Guitar Hero controller is a prime example of when a controller desinged for 
 ___
 ##Initial Design proposal
 
-I will attempt to do a multi-player controller where two people can use it a the same time. A bit like the street fighter controller design, but with two sets of controls.
+I will attempt to create a multi-player controller where two people can use it a the same time. Similar to the street fighter controller design, but with two sets of controls.
 ![alt text](http://images.shopmadeinchina.com/p/970/10934970/USB-Wrestle-Joystick-Street-Fighter-Game.bak.jpg "Street Figher Controller")
+
+
+First Quick concepts:
+![alt text](https://github.com/Alli1223/comp140-hardware/blob/master/First%20Prototype%20controller%20designs.png "First Concepts")
 _TODO--_**
