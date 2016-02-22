@@ -3,7 +3,7 @@ Repository for the COMP140 Hardware Hacking assignment
 ___
 
 ##Chosen game
-I have chosen the BA game called *Time Flies* AKA *Clock'd*.
+I have chosen the BA game called *Time Flies* AKA *Clock'd* to design a controller for.
 ___
 
 ##Market research
