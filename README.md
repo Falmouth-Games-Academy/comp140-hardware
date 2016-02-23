@@ -46,3 +46,7 @@ The game my controller is designed for is the team 9 Castle Guillotine game. The
 
 ##Inital Design
 For my design, I want to use two/three anolog stigs: one for player 1 movement and one for player 2 movement with a third anology stick for the mouse control. However if it's possible to use a button and change the function of the player 2 movement anolog for the mouse control.
+
+![alt text][design]
+
+[design]: https://github.com/sw180283/comp140-hardware/blob/master/Initial_Design_For_Controller.png?raw=true "Initial Design For Controller"
