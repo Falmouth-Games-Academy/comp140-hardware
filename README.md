@@ -27,12 +27,15 @@ ___
 I will attempt to create a multi-player controller where two people can use it a the same time. Similar to the wii nunchuk design, but with two sets of mini controllers.
 ![text](https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/96499-L-LO.jpg "Wii nunchuk")
 
+Another similar design is the Razer Hydra:
+![text](http://assets.razerzone.com/eeimages/products/64/razer-hydra-portal2-gallery-1.png "Razer Hydra")
+
 First Quick concepts:
-![First Prototype](https://github.com/Alli1223/comp140-hardware/blob/master/First%20Prototype%20controller%20designs.png "First Concepts")
+![First Prototype](https://raw.githubusercontent.com/Alli1223/comp140-hardware/master/First%20Prototype%20controller%20designs.png "First Concepts")
 
 From these prototypes I prefer the number 4 design as it allows for two people to hold the controllers independently without the others hand movements affecting their controls. It also appears to be far more comfortable to hold than the other designs that need to be rested on a surface.
 
 Further design concept:
-![text](https://github.com/Alli1223/comp140-hardware/blob/master/Prototype%20concept%202.jpg "Wii nunchuk")
+![text](https://raw.githubusercontent.com/Alli1223/comp140-hardware/master/Prototype%20concept%202.jpg "Wii nunchuk")
 
 This is the controller style I am looking to go for, where each player has one small controller with movement keys, punch and kick buttons. This is because it is more ergonomic to hold the controller in your hand than laying it down on a table.
