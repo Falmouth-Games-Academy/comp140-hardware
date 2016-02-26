@@ -12,8 +12,6 @@ The current generation consoles' controllers all have a similar shape:
 ![PS4 controller](http://www.evilcontrollers.com/media/catalog/product/cache/1/image/490x351/9df78eab33525d08d6e5fb8d27136e95/p/s/ps4-frontview.png)
 #####XBOX One controller:  
 ![xbox one](https://www.evilcontrollers.com/media/catalog/product/cache/1/image/490x351/9df78eab33525d08d6e5fb8d27136e95/x/b/xboxone-frontview-stockblack.png)
-#####Steam Controller:
-![Steam](https://www.gamestop.se/Views/Locale/Content/Images/ProductExtras/Steam%20Controller_ortho_front.jpg)
 #####Wii U controller:
 ![wii u](http://ecx.images-amazon.com/images/I/7115A2m702L._SX522_.jpg)
 
@@ -29,8 +27,15 @@ My controller will use the basic shape with two handgrips that other controllers
 The esc key exits the game and therefore needs to be somewhere where the user can't easily press it by accident.
 I'll attempt to make a joystick using the MakeyMakey kit for the the aiming the mouse controls.
 
-![joystick button](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/js%20button.png)
-I also want to make a joystick that is surrounded by a button allowing the player to aim with the joystick then there is a ....
+![analoguestick button](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/js%20button.png)
+I also want to make a joystick that is surrounded by a button allowing the player to aim with the joystick then move straight to pressing the fire button.
+
+
+###First Prototype:  
+  
+IMAGE OF FIRST PROTOTYPE  
+
+The first prototype was using the Makey Makey kit, I coudln't remap it to use the Shit and Ctrl keys so it's isn't suitable for the game I've chosen therefore I'm going to build my controller using and arduino uno instead. I'm also going to try and experiment with using light senors instead of an analogue stick to aim the firecrackers and I also want to use LEDs that'll flash when a firecracker is thrown. 
 
 
 
