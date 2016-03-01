@@ -22,21 +22,23 @@ Another issue is that people don't want to adapt how they play to use a radicall
 A complaint I often saw about controllers was their size, with such a variety in players it's hard to design a controller that will be comfortable for all players. Therefore I plan to make controller resizeable, most likely only the width will be adustable letting players find a size that is comfortable for them.  The recent xbox elite controller was a customizable controller that despite it's large price tag still sold very well suggesting that many people like to customize their controllers to what fits their play style. (add links to 
 
 ###My controller:  
-My controller will use the basic shape with two handgrips that other controllers use. My controller will be wired as it's using the makey makey kit.
+![Intial concept](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/design.png)
+
+My controller will use the basic shape with two handgrips that the other controllers use. My controller will be wired as it's using the Makey Makey kit.
 
 The esc key exits the game and therefore needs to be somewhere where the user can't easily press it by accident.
 I'll attempt to make a joystick using the MakeyMakey kit for the the aiming the mouse controls.
 
 ![analoguestick button](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/js%20button.png)
-I also want to make a joystick that is surrounded by a button allowing the player to aim with the joystick then move straight to pressing the fire button.
+I also want to make a analoguestick that is surrounded by a button allowing the player to aim with the joystick then move straight to pressing the fire button.
 
 
 ###First Prototype:  
   
 IMAGE OF FIRST PROTOTYPE  
 
-The first prototype was using the Makey Makey kit, I coudln't remap it to use the Shit and Ctrl keys so it's isn't suitable for the game I've chosen therefore I'm going to build my controller using and arduino uno instead. I'm also going to try and experiment with using light senors instead of an analogue stick to aim the firecrackers and I also want to use LEDs that'll flash when a firecracker is thrown. 
-
+The first prototype was using the Makey Makey kit. The game I've chosen needs teh Shift and Ctrl keys which the Makey Makey can't be remapped to, therfore for the prototype I will use a hotkey tool to use those keys.  The controls for contolling the fire cracker direction and firing worked better than I though it would as it was more responsive. the only issue is that it needs to be more sturdy to allow the player to press it rather than tap it. The metal ring worked well for earthing the controller as it didn't get in the way if the player wheres it on their thumb. 
+The next version will need a casing and buttons for the user to press.
 
 
 
