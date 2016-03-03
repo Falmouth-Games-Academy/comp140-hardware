@@ -32,8 +32,11 @@ I'll attempt to make a joystick using the MakeyMakey kit for the the aiming the 
 ![analoguestick button](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/js%20button.png)
 I also want to make a analoguestick that is surrounded by a button allowing the player to aim with the joystick then move straight to pressing the fire button.
 
+### Trello Board:  
+![Trello board](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Trello%20board.PNG)
 
-###First Prototype:  
+###First Sprint:  
+![End of sprint trello board](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/End%20of%20sprint%201.PNG)
   
 IMAGE OF FIRST PROTOTYPE  
 
