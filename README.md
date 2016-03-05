@@ -38,10 +38,16 @@ I also want to make a analoguestick that is surrounded by a button allowing the 
 ###First Sprint:  
 ![End of sprint trello board](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/End%20of%20sprint%201.PNG)
   
-IMAGE OF FIRST PROTOTYPE  
+![Photo of prototype 1](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Prototype%201.jpg)
 
 The first prototype was using the Makey Makey kit. The game I've chosen needs teh Shift and Ctrl keys which the Makey Makey can't be remapped to, therfore for the prototype I will use a hotkey tool to use those keys.  The controls for contolling the fire cracker direction and firing worked better than I though it would as it was more responsive. the only issue is that it needs to be more sturdy to allow the player to press it rather than tap it. The metal ring worked well for earthing the controller as it didn't get in the way if the player wheres it on their thumb. 
 The next version will need a casing and buttons for the user to press.
+
+
+###Second Sprint:  
+TRELLO BOARD
+
+![Photo of prototype 2](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Prototype%202.jpg)
 
 
 
