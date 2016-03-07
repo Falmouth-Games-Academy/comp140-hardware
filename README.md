@@ -29,7 +29,7 @@ My controller will use the basic shape with two handgrips that the other control
 The esc key exits the game and therefore needs to be somewhere where the user can't easily press it by accident.
 I'll attempt to make a joystick using the MakeyMakey kit for the the aiming the mouse controls.
 
-![analoguestick button](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/js%20button.png)
+![analoguestick button](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/js%20button.png)  
 I also want to make a analoguestick that is surrounded by a button allowing the player to aim with the joystick then move straight to pressing the fire button.
 
 ### Trello Board:  
@@ -38,16 +38,28 @@ I also want to make a analoguestick that is surrounded by a button allowing the 
 ###First Sprint:  
 ![End of sprint trello board](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/End%20of%20sprint%201.PNG)
   
-![Photo of prototype 1](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Prototype%201.jpg)
+![Photo of prototype 1](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Prototype%201.jpg)  
 
 The first prototype was using the Makey Makey kit. The game I've chosen needs teh Shift and Ctrl keys which the Makey Makey can't be remapped to, therfore for the prototype I will use a hotkey tool to use those keys.  The controls for contolling the fire cracker direction and firing worked better than I though it would as it was more responsive. the only issue is that it needs to be more sturdy to allow the player to press it rather than tap it. The metal ring worked well for earthing the controller as it didn't get in the way if the player wheres it on their thumb. 
 The next version will need a casing and buttons for the user to press.
 
 
 ###Second Sprint:  
-TRELLO BOARD
+![Sprint 2 Trello board](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/End%20of%20sprint%202.PNG)  
 
-![Photo of prototype 2](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Prototype%202.jpg)
+![Photo of prototype 2](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Prototype%202.jpg)    
+
+At the end of this sprint the controller was functional and could be used in the game, I used a piece of open source software called [AutoHotKey](https://autohotkey.com/) to create two files that remap Shift and Ctrl to the B and M keys, this allowed the MakeyMakey to be used for all the controls in the game.   
+
+I also made a second prototype in this sprint that was more compact and had a case, the main point of this prototype was to try and get the controller to fit in a box so the user can hold it without wires getting in the way.   
+
+![2.2 Front](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Prototype%202.2%20front.jpg)  
+![2.2 Top](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Prototype%202.2%20top.jpg)  
+
+This prototype used silver foil as buttons, these buttons work but they can't be pressed just touched or tapped. Also after this prototype I noticed that without the use of the arduino and light sensors the controller isn't very creative so I researched Japanese and ninja weapons for inpisiration as that would make the controller more relevant to the BA game I've chosen. I decided that throwing stars would be a good weapon to base my controller on as my current design can easily be reshaped to fit it.
+
+![Controller v2](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/controller%20v2.png)
+
 
 
 
