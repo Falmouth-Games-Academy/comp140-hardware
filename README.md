@@ -50,3 +50,11 @@ For my design, I want to use two/three anolog stigs: one for player 1 movement a
 ![alt text][design]
 
 [design]: https://github.com/sw180283/comp140-hardware/blob/master/Initial_Design_For_Controller.png?raw=true "Initial Design For Controller"
+
+#Second design for controller
+
+After working on my controller, I have altered the shape to appear more novel to the game design. The game is focused on playing as an ogre/goblin/troll/beast so I thought that the shape of a bone was suited to this player. I also used electrical glue to make a prototype of the controller which is functional with the game (mouse, WASD, mouse, space).
+
+![alt text][design2]
+
+[design2]: https://github.com/sw180283/comp140-hardware/blob/master/Initial_Design_For_Controller.png?raw=true "Second Design For Controller"
