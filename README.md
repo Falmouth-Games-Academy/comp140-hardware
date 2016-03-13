@@ -63,4 +63,7 @@ After working on my controller, I have altered the shape to appear more novel to
 
 [prototype]: https://github.com/sw180283/comp140-hardware/blob/master/Images/Prototype_In_Box_Earth.jpg "Prototype Out Of Box"
 
+![alt text][prototype2]
+
+[prototype2]: https://github.com/sw180283/comp140-hardware/blob/master/Images/Prototype_Out_Of_Box.jpg "Prototype In The Box"
 
