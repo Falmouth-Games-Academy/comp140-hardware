@@ -1,7 +1,7 @@
 # comp140-hardware
 Base repository for the COMP140 Hardware Hacking assignment
 
-[create an anchor](##market-research)
+[create an anchor](#market-research)  
 [create an anchor](#second-design-for-controller)
 
 ##Market Research
