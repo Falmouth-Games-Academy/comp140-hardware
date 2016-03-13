@@ -57,4 +57,4 @@ After working on my controller, I have altered the shape to appear more novel to
 
 ![alt text][design2]
 
-[design2]: https://github.com/sw180283/comp140-hardware/blob/master/Second_Design_For_Controller.JPG "Second Design For Controller"
+[design2]: https://github.com/sw180283/comp140-hardware/blob/master/Images/Second_Design_For_Controller.JPG "Second Design For Controller"
