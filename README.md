@@ -1,7 +1,8 @@
 # comp140-hardware
 Base repository for the COMP140 Hardware Hacking assignment
 
-[create an anchor](##Market-Research)
+[create an anchor](##market-research)
+[create an anchor](#second-design-for-controller)
 
 ##Market Research
 To be able to produce a controller, research of existing products is necessary to find out how other production companies and developers have designed their user interface to be compatible with their game choice.
