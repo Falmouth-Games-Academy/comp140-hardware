@@ -49,7 +49,7 @@ For my design, I want to use two/three anolog stigs: one for player 1 movement a
 
 ![alt text][design]
 
-[design]: https://github.com/sw180283/comp140-hardware/blob/master/Initial_Design_For_Controller.png?raw=true "Initial Design For Controller"
+[design]: https://github.com/sw180283/comp140-hardware/blob/master/Images/Initial_Design_For_Controller.png "Initial Design For Controller"
 
 #Second design for controller
 
