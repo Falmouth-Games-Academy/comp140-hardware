@@ -70,3 +70,7 @@ After working on my controller, I have altered the shape to appear more novel to
 ![alt text][first]
 
 [first]: https://github.com/sw180283/comp140-hardware/blob/master/Images/First_Prototype_Design_Top.jpg "First Prototype Design Top"
+
+![alt text][first2]
+
+[first2]: https://github.com/sw180283/comp140-hardware/blob/master/Images/First_Prototype_Design_Wired.jpg "First Prototype Design Wired"
