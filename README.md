@@ -157,7 +157,7 @@ I wanted to create a different holding position for players who wanted to the co
 
 #Code Snippet For Keys
 
-'''
+```
  int keyCodes[NUM_INPUTS] = {
   // top side of the makey makey board
  
@@ -186,4 +186,4 @@ I wanted to create a different holding position for players who wanted to the co
   MOUSE_LEFT,         // pin A1
   KEY_RIGHT_CTRL      // pin A0
 };
-'''
+```
