@@ -41,7 +41,7 @@ Further design concept:
 This is the controller style I am looking to go for, where each player has one small controller with movement keys, punch and kick buttons. This is because it is more ergonomic to hold the controller in your hand than laying it down on a table.
 
 
-First Sprint Design:
+First Sprint Prototype:
 
 ![text](https://raw.githubusercontent.com/Alli1223/comp140-hardware/master/Sprint%201%20Design.jpg "First Controller Sprint")
 I moved the kick button to the left side of the controller as pressing the button underneath the controller made it hard to hold without accidently pressing the button.
