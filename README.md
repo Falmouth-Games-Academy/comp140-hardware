@@ -154,3 +154,36 @@ Materials used:
 [end]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/End_Controller_Project_Board.png "End Of Project Trello"
 
 I wanted to create a different holding position for players who wanted to the controller to be more novel, however this wasn't possible for the time left. I also didn't implement the E key as it appeared to have no in game function as collision was enough to do this action. Also I used the code from [SparkFun](https://github.com/sparkfun/MaKeyMaKey/blob/master/firmware/Arduino/makey_makey/settings.h) for changing the makemakey keys, as well as the [makeymakey remapping](http://www.makeymakey.com/remap_classic/index.html) website to change some keys. However, I didn't implement the jump for the second character as the uncombine R key did the same thing and had an issue with the Arudino IDE port control.
+
+#Code Snippet For Keys
+
+- 
+- int keyCodes[NUM_INPUTS] = {
+  // top side of the makey makey board
+ 
+  KEY_UP_ARROW,      // up arrow pad
+  KEY_DOWN_ARROW,    // down arrow pad
+  KEY_LEFT_ARROW,    // left arrow pad
+  KEY_RIGHT_ARROW,   // right arrow pad
+  ' ',               // space button pad
+  MOUSE_LEFT,        // click button pad
+  
+  // female header on the back left side
+  
+  'w',                // pin D5
+  'a',                // pin D4
+  's',                // pin D3
+  'd',                // pin D2
+  'f',                // pin D1
+  'g',                // pin D0
+  
+  // female header on the back right side
+  
+  MOUSE_MOVE_UP,      // pin A5
+  MOUSE_MOVE_DOWN,    // pin A4
+  MOUSE_MOVE_LEFT,    // pin A3
+  MOUSE_MOVE_RIGHT,   // pin A2
+  MOUSE_LEFT,         // pin A1
+  KEY_RIGHT_CTRL      // pin A0
+};
+-
