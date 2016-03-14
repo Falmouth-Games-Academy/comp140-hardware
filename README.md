@@ -12,8 +12,8 @@ After researching the most popular consoles and current generation consoles it b
 #####Wii U controller:
 ![Wii u](http://ecx.images-amazon.com/images/I/7115A2m702L._SX522_.jpg)  
 As the controllers above all have a similar basic shape it's likely that it’s ergonomically the best shape. The Wii U also has its large game pad controller but according to reviews many players prefer to play using the Wii U “Pro controller” shown above.  
-Another issue is that people don't want to adapt how they play to use a radically different controller, they'll want one that is relatively simple to use if they have used other controllers such as the ones above.  Therefore my controller will use this basic shape with two hand grips.      
-As my controller will be based on a game a ninja like game I have also researched ninja weapons and could incorporate some  
+One issue is that people don't want to adapt how they play to use a radically different controller, they'll want one that is relatively simple to use if they have used other controllers such as the ones above.  Therefore my controller will use this basic shape with two hand grips.      
+As my controller will be based on a ninja like game I have also researched ninja weapons and could incorporate some decoration or alter the shape slightly to match that.
 
 ###My controller:  
 ![Initial concept](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Images/design.png)
@@ -21,10 +21,10 @@ As my controller will be based on a game a ninja like game I have also researche
 My controller will use the basic shape with two handgrips that the other controllers use. My controller will be wired as it's using the MakeyMakey kit.
 
 The esc key exits the game and therefore needs to be somewhere where the user can't easily press it by accident.
-I'll attempt to make a joystick using the MakeyMakey kit for the aiming the mouse controls.
+I'll attempt to make a analogue stick using the MakeyMakey kit for the aiming the mouse controls.
 
 ![analogue stick button](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Images/js%20button.png)  
-I also want to make an analogue stick that is surrounded by a button allowing the player to aim with the joystick then move straight to pressing the fire button.
+I also want to make an analogue stick that is surrounded by a button allowing the player to aim with the analogue stick then move straight to pressing the fire button.
 
 ### Trello Board:  
 ![Trello board](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Images/Trello%20board.PNG)
@@ -50,10 +50,10 @@ I also made a second prototype in this sprint that was more compact and had a ca
 ![2.2 Top](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Images/Prototype%202.2%20top.jpg)  
 
 This prototype used silver foil as buttons, these buttons work but they can't be pressed just touched or tapped lightly. 
-I now know the controller works so will now try and use a different box. The Arduino kit I bought was faulty and had to be returned so I can no longer use photo resistors or a similar light based system to control the firing of the fire crackers. Instead I’ve looked at different ninja weapons and settled on a design based on a throwing star. The shape of a throwing star allows me to incorporate that two handle grip base of the controller and also ties into the theme of my chosen BA game. 
+I now know the controller works so will now try and use a different box. The Arduino kit I bought was faulty and had to be returned so I can no longer use photo resistors or a similar light based system to control the firing of the fire crackers. Instead I’ve looked at different ninja weapons and settled on a design based on a throwing star. The shape of a throwing star allows me to incorporate that two handle grip base of the controller and also ties into the theme of my chosen BA game. This idea was also inspired by controllers such as the Wii controller that had different extensions and add-on pieces such as a plastic gun to sit the controller in or a tennis racket handle. These controllers normally have limited use as they only make sense to use in a few games but they still sold well. My controller will be useable in most games that use a similar control layout and the keys can be remapped if necessary but it will be mostly appealing to people that play games with a similar theme to the BA game A Novel Ambition. 
 
 ![Controller v2](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Images/controller%20v2.png)
 
 ###Final version: 
-![Final controller image]()  
-The final version is mostly the same as the previous version just in a different box. None of the functionality has changed but some buttons and wires are now more secure. 
+![Final controller image](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Images/Final%20Prototype.jpg)  
+The final version is mostly the same as the previous version just in a reshaped box. None of the functionality has changed but some buttons and wires are now more secure. Due to a lack of materials most of the throwing star shape was made from card and a padded envelope which meant the buttons had to remain on the main body.
