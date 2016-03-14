@@ -5,7 +5,9 @@ Base repository for the COMP140 Hardware Hacking assignment
 * [Game Choice from BA](#game-choice-from-ba)  
 * [Inital Design](#inital-design)  
 * [First Controller Sprint Plan](#first-controller-sprint-plan)  
-* [Second Controller Sprint Plan]((#second-controller-sprint-plan)
+* [Second Controller Sprint Plan](#second-controller-sprint-plan)
+* [Third Controller Sprint Plan](#third-controller-sprint-plan)
+* [Final Prototype](#final-prototype)
 
 ##Market Research
 To be able to produce a controller, research of existing products is necessary to find out how other production companies and developers have designed their user interface to be compatible with their game choice.
@@ -98,7 +100,7 @@ One of the most recommended improvements was to somehow contain the wires in a w
 
 Another issue was that the controller should be smaller to make holding it easier. This was a prototype design choice as it meant that the wires would conflict. However, if I can alter the circuitry then I should be able to alter the controller dimensions.
 
-#Third Sprint Trello Plan
+#Third Controller Sprint Plan
 ![alt text][sprint3]
 
 [sprint3]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Third_Controller_Sprint_Plan.png "Third Controller Sprint Plan"
