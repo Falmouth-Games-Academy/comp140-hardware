@@ -63,7 +63,7 @@ In the first sprint review, I made progress making my controller, however the no
 #Second Controller Sprint Plan
 ![alt text][sprint2]
 
-[sprint2]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/First_%20Controller_Sprint_Plan.png "Second Controller Sprint Plan"
+[sprint2]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Second_%20Controller_Sprint_Plan.png "Second Controller Sprint Plan"
 
 #Second design for controller
 
