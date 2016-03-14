@@ -95,7 +95,7 @@ Another issue was that the controller should be smaller to make holding it easie
 #Third Sprint Trello Plan
 ![alt text][sprint3]
 
-[sprint3]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Second_Controller_Sprint_Plan.png "Third Controller Sprint Plan"
+[sprint3]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Third_Controller_Sprint_Plan.png "Third Controller Sprint Plan"
 
 #Final Prototype
 For the final prototype I was able to alter the cicuirty to make the controller easy to handle while containing all the necessary wires. In a professional prototype, with more material, I would have soldered wires together to make the container for the wires/makeymakey much smaller. However, the equipment I used was all from around my house and I only bought the metal fold out pins.  
