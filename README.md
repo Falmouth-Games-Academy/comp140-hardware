@@ -63,3 +63,17 @@ Second Prototype Design:
 
 
 For the final design I used conductive paste for the buttons, as this allowed me to easily clip the crocodile clips for the makey makey kit to the end of the controller.
+
+___
+
+##Trello Board:
+###Sprint One
+![trello](https://raw.githubusercontent.com/Alli1223/comp140-hardware/master/Trello_Board/Sprint%20One.png " Sprint One")
+
+###Sprint Two
+![trello](https://raw.githubusercontent.com/Alli1223/comp140-hardware/master/Trello_Board/Sprint%20Two.png " Sprint Two")
+
+###Sprint Two End
+![trello](https://raw.githubusercontent.com/Alli1223/comp140-hardware/master/Trello_Board/Final.png " Sprint Two end")
+
+I was unable to create a second controller for my second sprint, as I did not have all the materials necessary to create a second controller. Furthermore as the second controller is identical to the current one, there was not a big need to create a second one.
