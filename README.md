@@ -19,12 +19,18 @@ To make a controller suited for gaming, the ergonomics of the controller has to 
 
 [ps4]: http://oyster.ignimgs.com/wordpress/write.ign.com/150272/2013/07/DualShock-4.jpg "Dual Shock 4 Controller"
 
+##For My Controller Design
+Companies have funded ergonomic design study for years and have been shown to mostly follow a simple controller design (xbox, playstation, etc). The ability to grip the controller with two hands gives stability and dual control over the controller. With the ability to control two characters in this game, this idea would be useful in not only providing a stable base to dual control characters, but also provide an expected experience when holding the controller.
+
 ##Complexity
 If a controller is too complex, it can reduce the number of users and the game it is intended for is less. For a game with a casual gamer target audience, a controller with multiple combination buttons can cause frustration with the uses. However, for a veteran player then the complexity is a challenge and the skill of the player improves their usability.
 
 ![alt text][alphagrip]
 
 [alphagrip]: http://cdn-www.cracked.com/articleimages/wong/vgaccess/alpha1.jpg "AlphaGrip Work Game Controller"
+
+##For My Controller Design
+I think the target audience for this game is for young audiences, so the controller should be kept simple. This means that minimal buttons and recognisable layout should be used to give the user an expected outcome when using the controller.
 
 ##Connectivity
 Most controllers are started to become wireless however some wired controllers still exist. For wireless controllers, it reduces the clutter of storage and also improves the mobility and engagement in the game. However, rechargable or non-rechargable batteries are required and a sync process is needed. There can be other issues with wireless if there require a direct line of sight to a sensor to work if there are obsticles in the way.
@@ -33,6 +39,8 @@ Most controllers are started to become wireless however some wired controllers s
 
 [wired]: http://gearmedia.ign.com/gear/image/article/673/673178/xbox-360-controller-20051201054111842-000.jpg "Wired Vs Wireless Controller"
 
+##For My Controller Design
+My controller has to be wired, however if this was a full production, I could suggest that my prototype would have a wireless connection if I could show evidence of how this could be stored.
 
 ##Visual and Audio
 Other controllers are through visual and audio sensors, which change the engagement with the player. Depending on the type of game this can improve or decrease this. For a dance game, a visual sensor can make the game seem more intuitive and suited than a standard controller. With singing games, audio sensors do something that a standard controller cannot and actual requires the gamer to user their voice to sing instead of a button. This has also been incorporated into commands in addition to standard controllers such as the Xbox One headset which allows uses to start games, pause movies and shutdown the console with voice control.
@@ -51,6 +59,18 @@ The game my controller is designed for is the team 9 Castle Guillotine game. The
 - RightCtrl player 2 jump
 - E for interact key
 - R for combine players
+
+##Research for Target Audience
+The intended audience of this game appears to be for children, as the art style is cartoony with no blood and basic controls. Therefore, I should aim to engage the players with a controller that engages the player with a design that makes controls easy to handle but also functional. After the first sprint review, I decided to do more research into the design of shaped controllers as I thought this would make the controller novel while still being functional in design.
+
+![alt text][guitar]
+
+[guitar]: http://www.premierguitar.com/ext/resources/archives/26ccf308-d94a-4189-a99d-e543a8b6a4f0.JPG?1371672694 "Guitar Shaped Controller Design"
+
+The guitar shows how to functionality is simple yet engaging in its design. With only a few buttons it still is complex enough to appear creative and simple enough for a child to play. Also, if a child knows how to hold a guitar or has seen one held, they instantly hold the controller correctly.
+
+##For My Controller Design
+I want to use this for my design where I take inspiration from xbox and playstation analogs which make children instantly know how to hold it. In addition, the bone shape is novel to the game design as the focus is around comical ogres/trolls which would liekly carry a club/bone.
 
 ##Inital Design
 For my design, I want to use two/three anolog stigs: one for player 1 movement and one for player 2 movement with a third anology stick for the mouse control. However if it's possible to use a button and change the function of the player 2 movement anolog for the mouse control.
