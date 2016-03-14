@@ -53,6 +53,10 @@ For my design, I want to use two/three anolog stigs: one for player 1 movement a
 
 #First Controller Sprint Plan
 
+![alt text][labels]
+
+[labels]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Trello_Labels_Name_Colour.png "Trello Board Colour Labels"
+
 ![alt text][sprint1]
 
 [sprint1]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/First_Controller_Sprint_Plan.png "First Controller Sprint Plan"
@@ -87,10 +91,6 @@ The second review gave us the opportunity to get feedback from our peers and lec
 One of the most recommended improvements was to somehow contain the wires in a way that would appear less messy, but also attempt to use only the wires for circuitry instead of the crocodile clips. This is a difficult task as I am not allowed to solder or super glue the components together as the equipment is only on loan. This means that temporary tape can be used.
 
 Another issue was that the controller should be smaller to make holding it easier. This was a prototype design choice as it meant that the wires would conflict. However, if I can alter the circuitry then I should be able to alter the controller dimensions.
-
-![alt text][labels]
-
-[labels]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Trello_Labels_Name_Colour.png "Trello Board Colour Labels"
 
 #Third Sprint Trello Plan
 ![alt text][sprint3]
