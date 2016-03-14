@@ -64,7 +64,9 @@ The game my controller is designed for is the team 9 Castle Guillotine game. The
 - R for combine players
 
 ##Research for Target Audience
-The intended audience of this game appears to be for children, as the art style is cartoony with no blood and basic controls. Therefore, I should aim to engage the players with a controller that engages the player with a design that makes controls easy to handle but also functional. When looking at what game kids play, they play games the same way as older audiences do. Xbox and Playstation all support the same type of controller design and young audiences have managed to use these just as well. After the first sprint review, I decided to do more research into the design of shaped controllers as I thought this would make the controller novel while still being functional in design.  
+The intended audience of this game appears to be for children, as the art style is cartoony with no blood and basic controls. Therefore, I should aim to engage the players with a controller that engages the player with a design that makes controls easy to handle but also functional.  
+
+When looking at what games kids play, they play games the same way as older audiences do. Xbox and Playstation all support the same type of controller design and young audiences have managed to use these just as well. After the first sprint review, I decided to do more research into the design of shaped controllers as I thought this would make the controller novel while still being functional in design.  
 
 ![alt text][guitar]
 
