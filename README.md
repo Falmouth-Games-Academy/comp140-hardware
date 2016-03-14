@@ -1,5 +1,4 @@
 # comp140-hardware
-Base repository for the COMP140 Hardware Hacking assignment
 
 ##Youtube Link To Video
 https://www.youtube.com/watch?v=0rMfJg9dyhk&feature=youtu.be
@@ -11,6 +10,7 @@ https://www.youtube.com/watch?v=0rMfJg9dyhk&feature=youtu.be
 * [Second Controller Sprint Plan](#second-controller-sprint-plan)
 * [Third Controller Sprint Plan](#third-controller-sprint-plan)
 * [Final Prototype](#final-prototype)
+* [End Of Project Trello](#end-of-project-trello)
 
 ##Market Research
 To be able to produce a controller, research of existing products is necessary to find out how other production companies and developers have designed their user interface to be compatible with their game choice.
@@ -150,10 +150,7 @@ Materials used:
 [prototype2]: https://github.com/sw180283/comp140-hardware/blob/master/Images/Prototype_In_Box_Earth.jpg "Prototype In The Box"
 
 #End Of Project Trello
-
 ![alt text][end]
-
 [end]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/End_Controller_Project_Board.png "End Of Project Trello"
 
 I wanted to create a different holding position for players who wanted to the controller to be more novel, however this wasn't possible for the time left. I also didn't implement the E key as it appeared to have no in game function as collision was enough to do this action. Also I used the code from SparkyFun for changing the makemakey keys, as well as the makeymakey remapping website to change some keys. However, I didn't implement the jump for the second character as the uncombine R key did the same thing and had an issue with the Arudino IDE port control.
-
