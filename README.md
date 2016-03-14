@@ -59,6 +59,10 @@ After working on my controller, I have altered the shape to appear more novel to
 
 [design2]: https://github.com/sw180283/comp140-hardware/blob/master/Images/Second_Design_For_Controller.JPG "Second Design For Controller"
 
+![alt text][sprint1]
+
+[sprint1]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/First_%20Controller_Sprint_Plan.png "First Controller Sprint Plan"
+
 #Second Sprint Controller Review
 The second review gave us the opportunity to get feedback from our peers and lecturer as they could test our controlls while using a heuristic approach. From my first sprint plan, I have altered my design to appear more novel, while relating to the game. I was able to to explain the reasons behind this choice and why I thought this would engage the players more.
 
