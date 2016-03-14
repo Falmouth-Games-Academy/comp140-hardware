@@ -78,6 +78,10 @@ One of the most recommended improvements was to somehow contain the wires in a w
 
 Another issue was that the controller should be smaller to make holding it easier. This was a prototype design choice as it meant that the wires would conflict. However, if I can alter the circuitry then I should be able to alter the controller dimensions.
 
+![alt text][sprint2]
+
+[sprint2]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Second_Controller_Sprint_Plan.png "Second Controller Sprint Plan"
+
 #Final Prototype
 For the final prototype I was able to alter the cicuirty to make the controller easy to handle while containing all the necessary wires. In a professional prototype, with more material, I would have soldered wires together to make the container for the wires/makeymakey much smaller. However, the equipment I used was all from around my house and I only bought the metal fold out pins.  
   
