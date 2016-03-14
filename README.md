@@ -1,6 +1,9 @@
 # comp140-hardware
 Base repository for the COMP140 Hardware Hacking assignment
 
+##Youtube Link To Video
+https://www.youtube.com/watch?v=0rMfJg9dyhk&feature=youtu.be
+
 * [Market Research](#market-research)  
 * [Game Choice from BA](#game-choice-from-ba)  
 * [Inital Design](#inital-design)  
