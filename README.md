@@ -75,7 +75,7 @@ When looking at what games kids play, they play games the same way as older audi
 The guitar shows how its functionality is simple yet engaging in its design. With only a few buttons it still is complex enough to appear creative and simple enough for a child to play. Also, if a child knows how to hold a guitar or has seen one held, they instantly hold the controller correctly.
 
 ##For My Controller Design
-I want to use this for my design where I take inspiration from xbox and playstation analogs which make children instantly know how to hold it. In addition, the bone shape is novel to the game design as the focus is around comical ogres/trolls which would liekly carry a club/bone.
+I want to use this for my design where I take inspiration from xbox and playstation analogs which make children instantly know how to hold it. In addition, the bone shape is novel to the game design as the focus is around comical ogres/trolls/goblins/monsters which would likely carry a club/bone.
 
 ##Inital Design
 For my design, I want to use two/three anolog stigs: one for player 1 movement and one for player 2 movement with a third anology stick for the mouse control. However if it's possible to use a button and change the function of the player 2 movement anolog for the mouse control.
