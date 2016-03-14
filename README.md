@@ -5,6 +5,7 @@ Base repository for the COMP140 Hardware Hacking assignment
 * [Game Choice from BA](#game-choice-from-ba)  
 * [Inital Design](#inital-design)  
 * [First Controller Sprint Plan](#first-controller-sprint-plan)  
+* [Second Controller Sprint Plan]((#second-controller-sprint-plan)
 
 ##Market Research
 To be able to produce a controller, research of existing products is necessary to find out how other production companies and developers have designed their user interface to be compatible with their game choice.
