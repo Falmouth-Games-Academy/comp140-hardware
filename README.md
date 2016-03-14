@@ -175,7 +175,7 @@ I wanted to create a different holding position for players who wanted to the co
   's',                // pin D3 move character 1 back
   'd',                // pin D2 move character 1 right
   'r',                // pin D1 combine the two characters
-  'g',                // pin D0
+  'g',                // pin D0 button has no use
   
   // female header on the back right side
   
