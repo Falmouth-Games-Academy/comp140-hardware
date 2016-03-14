@@ -82,6 +82,10 @@ One of the most recommended improvements was to somehow contain the wires in a w
 
 Another issue was that the controller should be smaller to make holding it easier. This was a prototype design choice as it meant that the wires would conflict. However, if I can alter the circuitry then I should be able to alter the controller dimensions.
 
+![alt text][labels]
+
+[labels]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Trello_Labels_Name_Colour.png "Trello Board Colour Labels"
+
 ![alt text][sprint2]
 
 [sprint2]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Second_Controller_Sprint_Plan.png "Second Controller Sprint Plan"
