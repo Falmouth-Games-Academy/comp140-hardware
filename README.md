@@ -61,6 +61,6 @@ The image above shows which keys have been remapped on the MakeyMakey. F and G h
 ![Final controller image](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Images/Final%20Prototype.jpg)  
 The final version is mostly the same as the previous version just in a reshaped box. None of the functionality has changed but some buttons and wires are now more secure. Due to a lack of materials most of the throwing star shape was made from card and a padded envelope which meant the buttons had to remain on the main body.
 
-[The video linked shows the controller being used to play my chosen BA game.](https://youtu.be/Q6laW-UWeQs)
+[The video linked shows the controller being used to play my chosen BA game.](https://www.youtube.com/playlist?list=PLbJUmZD8DnxjDnE6BmK6hF9uQLZggxXbh)
 
 
