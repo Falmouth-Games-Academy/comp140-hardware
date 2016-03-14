@@ -161,29 +161,29 @@ I wanted to create a different holding position for players who wanted to the co
  int keyCodes[NUM_INPUTS] = {
   // top side of the makey makey board
  
-  KEY_UP_ARROW,      // up arrow pad
-  KEY_DOWN_ARROW,    // down arrow pad
-  KEY_LEFT_ARROW,    // left arrow pad
-  KEY_RIGHT_ARROW,   // right arrow pad
-  ' ',               // space button pad
-  MOUSE_LEFT,        // click button pad
+  KEY_UP_ARROW,      // up arrow pad move character 2 forward
+  KEY_DOWN_ARROW,    // down arrow pad move character 2 back
+  KEY_LEFT_ARROW,    // left arrow pad move character 2 left
+  KEY_RIGHT_ARROW,   // right arrow pad move character 2 right
+  ' ',               // space button pad make character 1 jump
+  KEY_RIGHT_CTRL,    // click button pad make character 2 jump
   
   // female header on the back left side
   
-  'w',                // pin D5
-  'a',                // pin D4
-  's',                // pin D3
-  'd',                // pin D2
-  'f',                // pin D1
+  'w',                // pin D5 move character 1 forward
+  'a',                // pin D4 move character 1 left
+  's',                // pin D3 move character 1 back
+  'd',                // pin D2 move character 1 right
+  'r',                // pin D1 combine the two characters
   'g',                // pin D0
   
   // female header on the back right side
   
-  MOUSE_MOVE_UP,      // pin A5
-  MOUSE_MOVE_DOWN,    // pin A4
-  MOUSE_MOVE_LEFT,    // pin A3
-  MOUSE_MOVE_RIGHT,   // pin A2
-  MOUSE_LEFT,         // pin A1
-  KEY_RIGHT_CTRL      // pin A0
+  MOUSE_MOVE_UP,      // pin A5 move mouse up screen
+  MOUSE_MOVE_DOWN,    // pin A4 move mouse down screen
+  MOUSE_MOVE_LEFT,    // pin A3 move mouse left screen
+  MOUSE_MOVE_RIGHT,   // pin A2 move mouse right screen
+  MOUSE_LEFT,         // pin A1 left click mouse select
+  'e',                // pin A0 character interact with objects
 };
 ```
