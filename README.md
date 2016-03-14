@@ -53,7 +53,7 @@ This prototype used silver foil as buttons, these buttons work but they can't be
 I now know the controller works so will now try and use a different box. The Arduino kit I bought was faulty and had to be returned so I can no longer use photo resistors or a similar light based system to control the firing of the fire crackers. Instead I’ve looked at different ninja weapons and settled on a design based on a throwing star. The shape of a throwing star allows me to incorporate that two handle grip base of the controller and also ties into the theme of my chosen BA game. This idea was also inspired by controllers such as the Wii controller that had different extensions and add-on pieces such as a plastic gun to sit the controller in or a tennis racket handle. These controllers normally have limited use as they only make sense to use in a few games but they still sold well. My controller will be useable in most games that use a similar control layout and the keys can be remapped if necessary but it will be mostly appealing to people that play games with a similar theme to the BA game A Novel Ambition. 
 
 ![Remapped keys](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Images/Remapped%20keys.PNG)  
-The image above shows which keys have been remapped on the MakeyMakey. F and G have been remapped to B and M and left click has been remapped to Esc. My hotkeys scripts are then run on the computer to remap B and M to Shift and Ctrl for when the game is running.
+The image above shows which keys have been remapped on the MakeyMakey. F and G have been remapped to B and M and right click has been remapped to Esc. My hotkeys scripts are then run on the computer to remap B and M to Shift and Ctrl for when the game is running.
 
 ![Controller v2](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Images/controller%20v2.png)
 
@@ -61,6 +61,6 @@ The image above shows which keys have been remapped on the MakeyMakey. F and G h
 ![Final controller image](https://raw.githubusercontent.com/MaddieK19/comp140-hardware/master/Images/Final%20Prototype.jpg)  
 The final version is mostly the same as the previous version just in a reshaped box. None of the functionality has changed but some buttons and wires are now more secure. Due to a lack of materials most of the throwing star shape was made from card and a padded envelope which meant the buttons had to remain on the main body.
 
-[The video linked shows the control being used to play the chosen BA game.](https://youtu.be/Q6laW-UWeQs)
+[The video linked shows the controller being used to play my chosen BA game.](https://youtu.be/Q6laW-UWeQs)
 
 
