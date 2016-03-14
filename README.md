@@ -51,13 +51,19 @@ For my design, I want to use two/three anolog stigs: one for player 1 movement a
 
 [design]: https://github.com/sw180283/comp140-hardware/blob/master/Images/Initial_Design_For_Controller.png "Initial Design For Controller"
 
+#First Controller Sprint Plan
+
+![alt text][sprint1]
+
+[sprint1]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/First_Controller_Sprint_Plan.png "First Controller Sprint Plan"
+
 #First Sprint Controller Review
 In the first sprint review, I made progress making my controller, however the novelty of the design was questioned. I wanted to think of a way to make my controller more engaging while still being functional as a controller.
 
-#Second Sprint Trello Plan
-![alt text][sprint1]
+#Second Controller Sprint Plan
+![alt text][sprint2]
 
-[sprint1]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/First_%20Controller_Sprint_Plan.png "Second Controller Sprint Plan"
+[sprint2]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/First_%20Controller_Sprint_Plan.png "Second Controller Sprint Plan"
 
 #Second design for controller
 
@@ -87,9 +93,9 @@ Another issue was that the controller should be smaller to make holding it easie
 [labels]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Trello_Labels_Name_Colour.png "Trello Board Colour Labels"
 
 #Third Sprint Trello Plan
-![alt text][sprint2]
+![alt text][sprint3]
 
-[sprint2]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Second_Controller_Sprint_Plan.png "Third Controller Sprint Plan"
+[sprint3]: https://github.com/sw180283/comp140-hardware/blob/master/Trello/Second_Controller_Sprint_Plan.png "Third Controller Sprint Plan"
 
 #Final Prototype
 For the final prototype I was able to alter the cicuirty to make the controller easy to handle while containing all the necessary wires. In a professional prototype, with more material, I would have soldered wires together to make the container for the wires/makeymakey much smaller. However, the equipment I used was all from around my house and I only bought the metal fold out pins.  
