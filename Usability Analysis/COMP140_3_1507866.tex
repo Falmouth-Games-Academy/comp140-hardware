@@ -5,12 +5,12 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage[none]{hyphenat}
 \usepackage{setspace}
-\usepackage{graphicx}
-\graphicspath{ {Figures/} }
 \doublespace
 
 % You may add additional packages here
 \usepackage{amsmath}
+\usepackage{graphicx}
+\graphicspath{ {Figures/} }
 
 % Please include a clear, concise, and descriptive title
 \title{Usability Analysis}
@@ -24,23 +24,50 @@
 \begin{document}
 	
 \maketitle
-	
-\abstract{abstract here}
 
-	
+
+\section{Introduction}
+This report will analyse the COMP140 hardware hacking controller using the heuristic analysis method suggested by Nielsen \cite{HeuristicEvaluation}.
+
+
 \section{Heuristics}
+The heuristics I've used are the ones designed by the Nielsen Norman Group:
+\begin{itemize}
+	\item Visibility of system status
+	\item Match between system and the real world
+	\item User control and freedom	
+	\item Consistency and standards
+	\item Error prevention
+	\item Recognition rather than recall
+	\item Flexibility and efficiency of use
+	\item Aesthetic and minimalist design
+	\item Help users recognize, diagnose, and recover from errors	
+	\item Help and documentation \cite{NNG}
+\end{itemize}
+
+However none of Nielsen's heuristics are specific to games. Therefore I would also add some of Pinelle \textit{et al}'s heuristics relating to game controls such as clumsy input scheme and command sequences being too complex \cite{Pinelle}.
+
+\section{The Controller}
+
+\begin{figure}[h]
+	\includegraphics[width=1.0\linewidth]{Controller.jpg}
+	\caption{ The controller.}
+\end{figure}
+Figure 1 shows the controller. The controller is designed to look like a ninja throwing star to fit the theme of the game it was designed for. It is designed for younger children that are more likely to be interested in different shaped controllers.
 
 
 \section{Two Improvements}
-One issue with my controller is likely to be the ergonomics. The throwing star shape means that one side will be shaped similarity to controller such as the PS4 controller and Xbox One controller, this side should be easy to grip and use. However the other side curves upwards which may be hard to grip or may not be able to grip easily. This may lead to the buttons on that side of the controlled being harder to use. 
 
-Another issue is that the controller is not very divergent from controllers currently on the market...
+One issue with my controller is likely to be the ergonomics. The throwing star shape means that one side will be shaped similarity to controller such as the PS4 controller and Xbox One controller, this side should be easy to grip and use. However the other side curves upwards which may be hard to grip or may not be able to grip easily. This may lead to the buttons on that side of the controlled being harder to use. Also the change in shape may mean that that the controller is comfortable to use for extend persons of play.
+
+Another issue is that the controller is not very divergent from controllers currently on the market. The controller is similar to what is already available therefore many people would probably ignore it in favour of the brand they're already familiar with. 
+
+An issue with my controller is the visibility of system status. The controller should always be informing the user of the system status  There is no indicator in the controller as to whether it is on and working or not. The MakeyMakey kit has an LED to indicate whether the MakeyMakey is on or not. The controller casing could be adapted to make this LED visible so the user has a visual que to show that the controller is on. The MakeyMakey also has the functionality to add another LED that will flash when either a keyboard or mouse button is pressed. An LED could be added to the controller to test whether the buttons are all functional however it would likely annoy the user if the controller flashed every time they pressed a button. These two improvements will inform the user of the system status. 
 
 \section{Conclusion}
+In conclusion
 
-	
-	
 \bibliographystyle{ieeetr}
-\bibliography{comp140_UA}
+\bibliography{comp140}
 	
 \end{document}
