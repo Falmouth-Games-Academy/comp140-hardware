@@ -29,8 +29,9 @@
 \section{Introduction}
 This report will analyse the COMP140 hardware hacking controller using the heuristic analysis method suggested by Nielsen \cite{HeuristicEvaluation}.
 
+
 \section{Heuristics}
-The heuristics that have been used are the ones designed by Nielsen:
+The heuristics that were used were designed by Nielsen:
 
 \begin{itemize}
 	\item Visibility of system status
@@ -45,7 +46,7 @@ The heuristics that have been used are the ones designed by Nielsen:
 	\item Help and documentation \cite{NNG}
 \end{itemize}
 
-However none of Nielsen's heuristics are specific to games. Pinelle \textit{et al}'s has designed a series of game specific heuristics the ones used here relating to game controls such as clumsy input scheme and command sequences being too complex \cite{Pinelle}.
+However Nielsen's heuristics are not specific to games. Pinelle \textit{et al} has designed heuristics that are game specific. The heuristics used here are relating to game controls such as clumsy input scheme and command sequences being too complex \cite{Pinelle}.
 
 \section{The Controller}
 
@@ -53,19 +54,24 @@ However none of Nielsen's heuristics are specific to games. Pinelle \textit{et a
 	\includegraphics[width=1.0\linewidth]{Controller.jpg}
 	\caption{ The controller.}
 \end{figure}
-Figure 1 shows the controller. The controller is designed to look like a ninja throwing star to fit the theme of the game it was designed for. It is designed for younger children that are more likely to be interested in different shaped controllers.
-
+Figure 1 shows the controller, it is shaped like a throwing star to fit the theme of the game it was designed for. It is designed for younger children that are more likely to be interested in different shaped controllers.
 
 \section{Two Improvements}
 
-The first issue with the controller is the aesthetic and minimalist design. The throwing star shape means that one side will be shaped similarity to a controller such as the PS4 controller. This side should be easy to grip and use. However the other side curves upwards which may be hard to grip or may not be able to grip easily. This may lead to the buttons on that side of the controlled being harder to use. Also the change in shape may mean that the controller is uncomfortable to use for extend periods of use. An improvement that could be made would be to alter the shape of the controller to give it two hand grips. This would make the controller more comfy to hold. The throwing star shape could also become removable allowing the controller to be held normally if the throwing star shape is causing discomfort.  
-% add diagram
-% ^^ Maybe change to no error recovery?
+The first issue with the controller is the aesthetic and minimalist design. The shape means that one side will be shaped similarity to a controller such as the PS4 controller, this side should be easy to grip and use. However the other side curves upwards and may be hard to grip. This may lead to the buttons on that side of the controlled being harder to use. Also the change in shape may mean that the controller is uncomfortable to use for extend periods of use. A possible improvement could be to alter the shape of the controller to give it two hand grips.
 
-An issue with my controller is the visibility of system status. The controller should always be informing the user of the system status. Currently there is no indicator as to whether the controller is on and functioning correctly. The MakeyMakey kit has an LED to indicate whether it is powered on. The controller casing could be adapted to make this LED visible so the user. The MakeyMakey also has the functionality to add another LED that will flash when either a keyboard or mouse button is pressed. An LED could be added to the controller to test whether the buttons are all functional however it would likely annoy the user if the controller flashed every time they pressed a button. These two improvements will inform the user of the system status. 
+\begin{figure}[h]
+	\includegraphics[width=1.0\linewidth]{Improved_design.png}
+	\caption{Potential improved design .}
+\end{figure}
 
+ Figure 2 shows a possible alternate design that has two hand grips making it easier to hold. The throwing star shape is also removable meaning it can be taken off if it is causing discomfort. This also allows for alternate shapes to be attached to the controller for use with other games. 
+
+Another issue is the visibility of system status, the controller should inform the user of the system status. Currently there is no indicator as to whether the controller is functioning correctly. The MakeyMakey kit has an LED to indicate whether it is powered on, the controller casing could be adapted to make this LED visible so the user. The MakeyMakey also has the functionality to add another LED that will flash when a button is pressed. An LED could be added to the controller to test whether the buttons are all functional. These two improvements will inform the user of the system status. 
+\break
 \section{Conclusion}
-In conclusion Nielsen says that it is difficult for an individual to find all the usability issues  \cite{HeuristicEvaluation}. Therefore there are likely to be more issues with the controller that would be found if it was analysed by more people. However making the two improvements will improve the usability of the controller.
+Nielsen says that it is difficult for an individual to find all the usability issues  \cite{HeuristicEvaluation}. Therefore there are likely to be more issues with the controller that would be found if it was analysed by more people. However making the two improvements will improve the usability of the controller.
+
 
 \bibliographystyle{ieeetr}
 \bibliography{comp140}
